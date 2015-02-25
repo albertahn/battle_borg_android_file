@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-de97e8e31b88a18fd56a19f6374119d9abbc93b9.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/libs/httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2-6ef2382f2cd8d2fd85ed36c86a346d8c043fc215.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Desktop/developer_stuff/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-c16c52deca9c619dc36a5c5c7ae7ac17ab6fc758.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/libs/universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-45aee060858ec3db2b647f9af8220419158bbec3.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/libs/httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpclient-4.3.4-e7709b7a79ed7cb6c91bfc0c990aa89f818aafa6.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-c8219748d15d5a76ebb83e3165307d30484aee10.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-33e699102514bc8ccfd1c234df0cece520d2e0e5.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-4cfa9da6ce2cc497155b592de0411b2030c1bcd4.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db05c0f18572759a328f65edb6ff80a012c33a47">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/unity-classes-3515327e6c6fb5135ce3416f93e5483563202cc0.jar" />
+    </item>
+    <item
+        jar="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/libs/httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpmime-4.3.4-eede5bb23cf124ca3e2dd8aec22e593db9523e29.jar" />
+    </item>
+
+</items>

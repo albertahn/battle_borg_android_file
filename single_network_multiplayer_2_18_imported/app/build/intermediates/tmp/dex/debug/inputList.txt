@@ -1,0 +1,11 @@
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/classes/debug
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-c16c52deca9c619dc36a5c5c7ae7ac17ab6fc758.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpmime-4.3.4-eede5bb23cf124ca3e2dd8aec22e593db9523e29.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/unity-classes-3515327e6c6fb5135ce3416f93e5483563202cc0.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-45aee060858ec3db2b647f9af8220419158bbec3.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-de97e8e31b88a18fd56a19f6374119d9abbc93b9.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2-6ef2382f2cd8d2fd85ed36c86a346d8c043fc215.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/httpclient-4.3.4-e7709b7a79ed7cb6c91bfc0c990aa89f818aafa6.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-4cfa9da6ce2cc497155b592de0411b2030c1bcd4.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-33e699102514bc8ccfd1c234df0cece520d2e0e5.jar
+/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/build/intermediates/pre-dexed/debug/classes-c8219748d15d5a76ebb83e3165307d30484aee10.jar

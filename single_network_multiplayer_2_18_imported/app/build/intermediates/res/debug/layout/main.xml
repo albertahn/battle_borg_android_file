@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/shine_back_register">
+
+    <TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@android:id/tabhost" android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:layout_width="fill_parent" android:layout_height="0.5dip"
+                android:background="#000" />
+
+            <TabWidget android:id="@android:id/tabs"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"
+                android:layout_marginLeft="0dip" android:layout_marginRight="0dip" />
+
+            <FrameLayout android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent" android:layout_height="fill_parent"
+                android:layout_weight="1.4" >
+
+                <LinearLayout
+                    android:id="@+id/home_tab"
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/home_frame"
+                        android:layout_alignParentBottom="true"
+                        android:layout_below="@+id/play_button">
+
+                        <Button
+                            android:layout_width="204dp"
+                            android:layout_height="146dp"
+                            android:text="Play"
+                            android:id="@+id/play_button"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:gravity="center|center_vertical|center_horizontal|fill_vertical"
+                            android:layout_marginTop="100dp"
+                            android:layout_gravity="center_horizontal|top" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="111dp"
+                            android:text="logout"
+                            android:id="@+id/logout_button"
+                            android:layout_gravity="right|center_vertical" />
+                    </FrameLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/comment_tab"
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ranking_tab"
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                </LinearLayout>
+
+
+
+            </FrameLayout>
+
+
+
+
+
+        </LinearLayout>
+    </TabHost>
+<!--
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:id="@+id/play_button"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="100dp" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/logout_button"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="100dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Story"
+        android:id="@+id/story_button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="100dp" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/theframefather"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/play_button"></FrameLayout>-->
+</RelativeLayout><!-- From: file:/Users/albert/Documents/unity_stuff/android_export/single_network_multiplayer_2_18_imported/app/src/main/res/layout/main.xml -->
